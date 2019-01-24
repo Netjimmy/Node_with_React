@@ -18,8 +18,4 @@ module.exports = app => {
   app.get("/api/current_user", (req, res) => {
     res.send(req.user);
   });
-
-  app.get("/google19cce05ab175d4d3.html", (req, res) => {
-    res.send("google-site-verification: google19cce05ab175d4d3.html");
-  });
 };
