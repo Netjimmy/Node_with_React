@@ -6,6 +6,7 @@ import * as actions from "../actions";
 class Payments extends Component {
   render() {
     return (
+      // <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline' 'checkout.stripe.com'; script-src * 'self' 'unsafe-inline' 'unsafe-eval';">
       <StripeCheckout
         name="Emaily"
         description="$5 for 5 email credits"
