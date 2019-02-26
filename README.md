@@ -2,7 +2,7 @@
 This is a udemy course project of [Node with React: Fullstack Web Development](https://www.udemy.com/node-with-react-fullstack-web-development/) 
 
 ## Technology used
-Node, React, Redux, Express, Mongo, Google OAuth, Stripe
+Node, React, Redux, Express, MongoDB, Google OAuth, Stripe
 
 ## Application Function
 #### Google Account login and Stripe payment
